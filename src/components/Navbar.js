@@ -13,6 +13,7 @@ import {
   AiOutlineFundProjectionScreen,
   AiOutlineUser,
 } from "react-icons/ai";
+import sachin from "../Assets/sachin.png";
 
 import { CgFileDocument } from "react-icons/cg";
 
@@ -39,7 +40,14 @@ function NavBar() {
     >
       <Container>
         <Navbar.Brand href="/" className="d-flex">
-          {/* <img src={""} className="img-fluid logo" alt="brand" /> */}
+          {/* <img
+            src={sachin}
+            style={{
+              width: "10rem",
+              paddingTop: "10px",
+            }}
+            alt="brand"
+          /> */}
           <h1>SACHIN</h1>
         </Navbar.Brand>
         <Navbar.Toggle

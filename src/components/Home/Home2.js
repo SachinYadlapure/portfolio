@@ -24,7 +24,7 @@ function Home2() {
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> Javascript, ReactJS </b>
+                <b className="purple"> Javascript, ReactJS, NodeJS </b>
               </i>
               <br />
               <br />
